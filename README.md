@@ -1,2 +1,2 @@
-# Analise_de_dados
-Projetos de Análise de Dados usando o Google Colab
+# Análise de dados
+Projetos de análise de dados usando o Google Colab
